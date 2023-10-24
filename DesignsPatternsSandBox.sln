@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignsPatternsSandBox", "DesignsPatternsSandBox\DesignsPatternsSandBox.csproj", "{A130E7AF-7363-4D83-8098-76D4944690FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{66C57883-C534-47FB-927D-713EF9BF6B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational", "Creational\Creational.csproj", "{E2E8B57D-3B43-4DA2-867F-3F10E678FB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A130E7AF-7363-4D83-8098-76D4944690FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A130E7AF-7363-4D83-8098-76D4944690FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A130E7AF-7363-4D83-8098-76D4944690FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A130E7AF-7363-4D83-8098-76D4944690FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E8B57D-3B43-4DA2-867F-3F10E678FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E8B57D-3B43-4DA2-867F-3F10E678FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E8B57D-3B43-4DA2-867F-3F10E678FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E8B57D-3B43-4DA2-867F-3F10E678FB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2E8B57D-3B43-4DA2-867F-3F10E678FB31} = {66C57883-C534-47FB-927D-713EF9BF6B77}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D4DA1C-3EB6-4877-B71C-EB28E364D30B}
+	EndGlobalSection
+EndGlobal

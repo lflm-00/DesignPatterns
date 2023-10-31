@@ -1,0 +1,11 @@
+﻿/* Propósito 
+	Prototype es un patrón de diseño creacional que nos permite copiar objetos
+	existentes sin que el código dependa de sus clases.
+/*
+
+/* Aplicabilidad : Utiliza el patrón Prototype cuando tu código no deba depender de las clases concretas de objetos que necesites copiar.
+	Esto sucede a menudo cuando tu código funciona con objetos pasados por código de terceras personas a través de una interfaz. 
+	Las clases concretas de estos objetos son desconocidas y no podrías depender de ellas aunque quisieras.
+	El patrón Prototype proporciona al código cliente una interfaz general para trabajar con todos los objetos que soportan la clonación.
+	Esta interfaz hace que el código cliente sea independiente de las clases concretas de los objetos que clona.
+/*

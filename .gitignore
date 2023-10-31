@@ -1,0 +1,8 @@
+# Carpeta de salida binaria
+Creational/bin/
+Creational/obj/
+
+DesignsPatternsSandBox/bin/
+DesignsPatternsSandBox/obj/
+# Carpeta de caché de Visual Studio
+.vs/
